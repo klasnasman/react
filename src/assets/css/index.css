@@ -271,6 +271,7 @@ footer {
       "f-logo f-menu"
       "f-contact f-follow";
     row-gap: 1rem;
+    height: unset;
     justify-items: start;
   }
 }
