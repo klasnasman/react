@@ -4,8 +4,8 @@
   --clr-text: #212529;
   --clr-yellow: rgb(255, 237, 115);
 
-  --ff-body: 'Apercu', 'Verdana', sans-serif;
-  --ff-heading: 'Apercu';
+  --ff-body: 'Domaine Sans Text', 'Verdana', sans-serif;
+  --ff-heading: 'Domaine Sans Text';
 
   --fw-regular: 400;
   --fw-bold: 600;
@@ -51,7 +51,7 @@ body {
 /* MISC */
 a,
 button {
-  text-decoration: underline 0.075rem rgba(0, 0, 0, 0);
+  text-decoration: underline 0.08rem transparent;
   transition: text-decoration-color 0.4s;
   text-underline-offset: 2px;
   cursor: pointer;

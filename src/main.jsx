@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from '../pages/App'
 import './assets/css/reset.css'
+import './assets/css/font.css'
 import './assets/css/hero.css'
 import './assets/css/index.css'
 
