@@ -49,18 +49,16 @@ body {
 }
 
 /* MISC */
-a,
-button {
-  text-decoration: underline 0.08rem transparent;
+a {
+  text-decoration: underline 0.08rem hsla(0, 0%, 0%, 0);
   transition: text-decoration-color 0.4s;
   text-underline-offset: 2px;
   cursor: pointer;
   color: var(--clr-text);
 }
 
-a:hover,
-button:hover {
-  text-decoration: underline 0.08rem black;
+a:hover {
+  text-decoration: underline 0.08rem hsla(0, 0%, 0%);
 }
 
 button {
