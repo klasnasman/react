@@ -348,14 +348,13 @@ a:hover .section__pagination {
 
 .info__section {
   display: flex;
-  align-items: center;
   max-width: 620px;
   gap: 0rem 2rem;
 }
 
 @media (max-width: 950px) {
   .info__section {
-    gap: 1rem 1rem;
+    gap: 2rem 0rem;
     flex-direction: column-reverse;
   }
 }
