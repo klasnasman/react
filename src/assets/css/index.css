@@ -51,6 +51,7 @@ body {
 /* MISC */
 a,
 button {
+  text-decoration: none;
   text-decoration: underline 0.08rem hsla(0, 0%, 0%, 0);
   transition: text-decoration-color 0.4s;
   text-underline-offset: 2px;
