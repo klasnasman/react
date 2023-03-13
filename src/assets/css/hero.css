@@ -1,7 +1,7 @@
 .hero {
     display: flex;
     align-items: center;
-    position: fixed;
+    position: sticky;
     justify-content: center;
     height: calc(100dvh - 90px);
     background: url(/img/index/toro.1280.jpg);
