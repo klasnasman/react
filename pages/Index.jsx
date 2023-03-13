@@ -15,7 +15,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/index/gudmar2.1280.jpg" />
+                                <img src="/img/index/gudmar2.1280.jpg" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">
@@ -29,7 +29,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/wedding/emmajonas3.jpg" />
+                                <img src="/img/wedding/emmajonas3.jpg" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">
@@ -43,7 +43,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/index/gudmar.1280.jpg" />
+                                <img src="/img/index/gudmar.1280.jpg" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">
@@ -57,7 +57,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/index/lofoten.png" />
+                                <img src="/img/index/lofoten.png" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">
@@ -71,7 +71,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/wedding/lisaalex.jpg" />
+                                <img src="/img/wedding/lisaalex.jpg" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">
@@ -85,7 +85,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/wedding/annamathias.jpg" />
+                                <img src="/img/wedding/annamathias.jpg" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">
@@ -99,7 +99,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/wedding/agnespeter.jpg" />
+                                <img src="/img/wedding/agnespeter.jpg" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">
@@ -113,7 +113,7 @@ const Index = () => {
                     <a href="/people.html">
                         <figure className="section__figure">
                             <LazyLoad>
-                                <img src="/src/assets/img/index/anders.1280.jpg" />
+                                <img src="/img/index/anders.1280.jpg" />
                             </LazyLoad>
                         </figure>
                         <h2 className="section__pagination">

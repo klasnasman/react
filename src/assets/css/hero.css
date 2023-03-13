@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     height: calc(100dvh - 90px);
-    background: url(/src/assets/img/index/toro.1280.jpg);
+    background: url(/img/index/toro.1280.jpg);
     background-size: cover;
 }
 
