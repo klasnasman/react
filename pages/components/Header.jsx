@@ -27,9 +27,9 @@ const Header = () => {
                     <a href="/">Klas Näsman</a>
                 </div>
                 <ul className="header__ul">
-                    <li><a href="/portrait/">Portrait</a></li>
-                    <li><a href="/personal/">Personal</a></li>
-                    <li><a href="/wedding/">Wedding</a></li>
+                    <li><a href="/portrait">Portrait</a></li>
+                    <li><a href="/personal">Personal</a></li>
+                    <li><a href="/wedding">Wedding</a></li>
                     <li><a href="/info">Info</a></li>
                 </ul>
                 <button id="header__button" onClick={toggleClass}>Menu</button>
