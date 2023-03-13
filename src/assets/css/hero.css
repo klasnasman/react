@@ -10,6 +10,7 @@
     background: url(/img/index/toro.1280.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .hero__heading {
