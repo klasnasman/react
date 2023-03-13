@@ -1,0 +1,16 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100dvh - 90px);
+    background: url(/src/assets/img/index/toro.1280.jpg);
+    background-size: cover;
+}
+
+.hero__heading {
+    width: 36ch;
+    font-family: var(--ff-body);
+    font-size: calc(var(--fs-s) + 2vw);
+    color: var(--clr-yellow);
+    text-align: center;
+}
