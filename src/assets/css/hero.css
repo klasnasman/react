@@ -1,12 +1,14 @@
 .hero {
     display: flex;
     align-items: center;
-    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
     justify-content: center;
     height: calc(100dvh - 90px);
     background: url(/img/index/toro.1280.jpg);
     background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
 }
 
