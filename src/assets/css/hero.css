@@ -14,5 +14,7 @@
     font-family: var(--ff-body);
     font-size: calc(var(--fs-s) + 2vw);
     color: var(--clr-yellow);
+    padding-left: 1rem;
+    padding-right: 1rem;
     text-align: center;
 }
