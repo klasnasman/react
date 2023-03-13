@@ -1,4 +1,5 @@
 import React from 'react'
+import FooterInfo from '../components/FooterInfo'
 import Header from '../components/Header'
 import Transitions from '../Transitions'
 
@@ -18,6 +19,7 @@ const Info = () => {
                     </p>
                 </section>
             </div>
+            <FooterInfo />
         </Transitions>
     )
 }
