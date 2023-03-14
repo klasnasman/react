@@ -12,6 +12,19 @@
 }
 
 @font-face {
+    font-family: 'Brown';
+    src: url('https://files.cargocollective.com/c169834/Brown-Light.eot');
+    src: url('https://files.cargocollective.com/c169834/Brown-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://files.cargocollective.com/c169834/Brown-Light.woff2') format('woff2'),
+        url('https://files.cargocollective.com/c169834/Brown-Light.woff') format('woff'),
+        url('https://files.cargocollective.com/c169834/Brown-Light.ttf') format('truetype'),
+        url('https://files.cargocollective.com/c169834/Brown-Light.svg#Brown-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Domaine Sans Text';
     src: url('https://files.cargocollective.com/c169834/DomaineSansText-Light.eot');
     src: url('https://files.cargocollective.com/c169834/DomaineSansText-Light.eot?#iefix') format('embedded-opentype'),
