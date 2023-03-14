@@ -4,8 +4,8 @@
   --clr-text: #212529;
   --clr-yellow: rgb(255, 237, 115);
 
-  --ff-body: 'Domaine Sans Text', 'Verdana', sans-serif;
-  --ff-heading: 'Domaine Sans Text';
+  --ff-body: 'Domaine Sans Text', 'Verdana', serif;
+  --ff-heading: 'Brown', sans-serif;
 
   --fw-regular: 400;
   --fw-bold: 600;
