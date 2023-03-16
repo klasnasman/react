@@ -1,4 +1,5 @@
 import React from 'react'
+import MobileMenu from './MobileMenu';
 import { useEffect } from 'react';
 
 const toggleClass = () => {
@@ -34,7 +35,10 @@ const Header = () => {
                 </ul>
                 <button id="header__button" onClick={toggleClass}>Menu</button>
             </nav>
+            <MobileMenu />
         </header>
+
+
     )
 }
 

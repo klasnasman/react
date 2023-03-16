@@ -6,7 +6,6 @@ import Layout from './Layout';
 import Info from './info/Info';
 import Wedding from './wedding/Wedding';
 import AnnaMathias from './wedding/annamathias/AnnaMathias';
-import MobileMenu from './components/MobileMenu'
 
 function App() {
   return (
@@ -20,7 +19,6 @@ function App() {
             <Route path="/wedding/annamathias" element={<AnnaMathias />} />
           </Route>
         </Routes>
-        <MobileMenu />
       </Router>
     </AnimatePresence>
   );
