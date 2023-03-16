@@ -2,14 +2,15 @@ import React from 'react'
 import MobileMenu from './MobileMenu';
 import { useEffect } from 'react';
 
-const toggleClass = () => {
-    const menuMobile = document.getElementById('mobile__menu');
-    const menuBtn = document.getElementById('header__button');
-    menuMobile.classList.toggle("open");
-    menuBtn.textContent = menuBtn.textContent == 'Menu' ? 'Close' : 'Menu';
-};
-
 const Header = () => {
+
+    const toggleClass = () => {
+        const menuMobile = document.getElementById('mobile__menu');
+        const menuBtn = document.getElementById('header__button');
+        menuMobile.classList.toggle("open");
+        menuBtn.textContent = menuBtn.textContent == 'Menu' ? 'Close' : 'Menu';
+    };
+
     useEffect(() => {
         window.addEventListener('resize', () => {
             const menuMobile = document.getElementById('mobile__menu');
