@@ -23,7 +23,7 @@ const Header() {
                     <li><a href="/wedding">Wedding</a></li>
                     <li><a href="/info">Info</a></li>
                 </ul>
-                <button id="header__button" onClick={toggleMenu}>{buttonText}</button>
+                <button className="header__button" onClick={toggleMenu}>{buttonText}</button>
             </nav>
       <MobileMenu isOpen={isOpen} />
         </header>
