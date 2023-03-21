@@ -249,7 +249,7 @@ footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   position: sticky;
-  top: 100dvh;
+  top: 100svh;
   padding: 2rem 4rem 2rem 4rem;
   border-top: 1px solid;
   height: var(--footer-height);
@@ -339,7 +339,7 @@ a:hover .section__pagination {
 .info__grid {
   display: flex;
   padding: 0rem 1rem 1.25rem 1rem;
-  min-height: calc(100dvh - var(--footer-height) - var(--header-height));
+  min-height: calc(100svh - var(--footer-height) - var(--header-height));
   align-items: center;
   justify-content: center;
 }
