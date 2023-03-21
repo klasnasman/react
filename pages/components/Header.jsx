@@ -2,7 +2,7 @@ import React from 'react'
 import MobileMenu from './MobileMenu';
 import { useState } from 'react';
 
-const Header() {
+const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => {
