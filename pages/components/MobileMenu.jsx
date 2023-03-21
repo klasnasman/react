@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MobileMenu({ isOpen }) {
+const MobileMenu = ({ isOpen }) => {
   const menuHeight = 
 isOpen ? '25%' : '-100vh';
 
