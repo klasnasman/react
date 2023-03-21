@@ -144,13 +144,13 @@ header nav {
   }
 }
 
-#mobile__menu {
+.mobile__menu {
   display: flex;
   position: fixed;
   width: 50%;
   right: 25%;
   height: 50%;
-  top: -100vh;
+  /*top: -100vh;*/
   align-items: center;
   border: 1px solid;
   justify-content: center;
@@ -160,11 +160,7 @@ header nav {
   z-index: 9;
 }
 
-#mobile__menu.open {
-  top: 25%;
-}
-
-#mobile__menu>ul {
+.mobile__menu>ul {
   display: flex;
   flex-direction: column;
   align-items: center;
