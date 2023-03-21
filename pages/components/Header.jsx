@@ -1,6 +1,6 @@
 import React from 'react'
 import MobileMenu from './MobileMenu';
-import { useEffect } from 'react';
+import { useState } from 'react';
 
 const Header() {
   const [isOpen, setIsOpen] = useState(false);
