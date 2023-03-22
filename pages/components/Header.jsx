@@ -27,8 +27,6 @@ const Header = () => {
             </nav>
       <MobileMenu isOpen={isOpen} />
         </header>
-
-
     )
 }
 
