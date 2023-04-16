@@ -6,8 +6,6 @@ import Layout from './Layout';
 import Info from './info/Info';
 import Wedding from './wedding/Wedding';
 import AnnaMathias from './wedding/annamathias/AnnaMathias';
-import Places from './places/Places';
-import People from './people/People';
 
 function App() {
   return (
@@ -17,8 +15,6 @@ function App() {
           <Route path="/" index element={<Index />} />
           <Route path="/info" element={<Info />} />
           <Route element={<Layout />}>
-            <Route path="/people" element={<People />} />
-            <Route path="/places" element={<Places />} />
             <Route path="/wedding" element={<Wedding />} />
             <Route path="/wedding/annamathias" element={<AnnaMathias />} />
           </Route>

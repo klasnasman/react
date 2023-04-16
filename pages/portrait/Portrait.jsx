@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Places = () => {
+const Portrait = () => {
     return (
         <div>
-            Places
+            Portrait
         </div>
     )
 }
 
-export default Places
+export default Portrait

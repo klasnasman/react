@@ -7,7 +7,7 @@ register();
 const People = () => {
     return (
 
-        <div>People Swiper</div>
+        <div></div>
 
     )
 }
