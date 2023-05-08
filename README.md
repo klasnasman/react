@@ -1,2 +1,2 @@
 Site for photographers
-https://klasnasmanreact.netlify.app/
+https://klasnasman-react.netlify.app/
